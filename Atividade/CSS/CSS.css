@@ -1,0 +1,408 @@
+
+
+body{
+	font-family: Helvetica, sans-serif;
+	margin: 0px;
+	background: #C4C4C4;
+}
+
+header nav ul{
+	list-style: none;
+	margin: auto;
+	position: absolute;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+
+header nav ul li{
+	display: inline-block;
+    margin-top: 30px;
+	margin-left: 50px;
+}
+
+.logo-tamanho{
+	width: 70px;
+	
+	
+}
+
+header nav ul li a{
+	margin-left: 40px;
+	display: table;
+	font-size: 22px;
+	color: #fff;
+	text-decoration: none;
+	padding-right: 80px;
+}
+
+header nav ul li a:hover{
+	text-decoration: underline;
+	color: #FFF;
+}
+
+header nav ul li img{
+	width: 60px;
+	padding-right: 130px;
+}
+
+.centralizando{
+	width:100%;
+    max-width:100%;
+    height:100vh;
+    background:url('../Imagens/imgteste2.jpg');
+    background-size:cover;
+    background-position:center center;
+    background-attachment: fixed;
+	overflow:hidden;
+}
+
+
+.corpo{
+	width:100%;
+}
+
+p{
+	color: #ffffff;
+	
+}
+
+
+.topo .div-tit{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);  /*centralizando*/
+}
+
+.topo .div-tit h1{
+	font-size: 4em;
+	color: #fff;
+	text-align: center;
+}
+
+.topo .div-tit a{
+	background: linear-gradient(to right,#000 , #C4C4C4,#C4C4C4,#C4C4C4,#C4C4C4,#C4C4C4, #000	);
+	color: #000;
+	margin: 0 auto;    /* esse em conjunto com */
+	display: table;    /* esse, centraliza */
+	padding: 8px 28px;
+	font-size: 1.6em;
+	text-decoration: none;
+	border-radius: 15px;  /* arredonda as bordas */ 
+	font-weight: 700;  /* negrito */
+}
+
+.topo .div-tit a:hover{
+	background: linear-gradient(to right,#000 , #717171,#717171,#717171,#717171,#717171, #000	);
+	color: #000;
+	/* text-transform: uppercase;  fonte maiuscula */ 
+}
+
+.img-nova{ 
+	width: 40px;
+	height: 40px;
+	
+}
+
+.header-site{
+	background-image:url(paisagem5.jpg);
+	background-position: center-top;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	color: #ffffff;
+	padding-top: 300px;
+	padding-bottom: 300px;
+}
+
+.content-site{
+	padding-top: 200px;
+	padding-bottom: 200px;
+}
+
+.corpo{
+	margin-top: 200px;
+	margin-left: 100px;
+	margin-right: 100px;
+
+	
+}
+
+.body{
+	font-family: Helvetica, sans-serif;
+	background: linear-gradient(to bottom,#000 0,5%,  #C4C4C4, #C4C4C4, #C4C4C4, #C4C4C4 );
+}
+
+.margin{
+	padding-top: 100px;
+	
+}
+
+.tit-tryall{
+	padding-top: 20px;
+	margin: auto;
+	display: table;
+	font-size: 2em;
+	font-family: Calibri Light;
+	
+}
+
+.textos{
+	font-family: Helvetica, sans-serif;
+	font-size: 1.5em;
+	padding-top: 20px;
+	color: #000;
+	text-align: justify;
+	
+}
+
+.fundo{
+	margin-right: 150px;
+	margin-left: 150px;
+	margin-top: 100px;
+	background: #EFEFEF;
+	padding: 50px;
+	box-shadow: 0px 2px 50px 2px rgba(100, 100, 50, 0.4);
+}
+
+.teste{
+	float: right;
+}
+
+
+/* parte 2  */
+
+
+
+
+.parte2{
+	width:100%;
+    height:760px;
+    background:url('../Imagens/jose-viado1.jpg');
+    background-size:cover;
+    background-position:center center;
+    background-attachment: fixed;
+	overflow:hidden;
+}
+
+
+.fundo2{
+	margin-top: 0px;
+	margin-right: 150px;
+	margin-left: 150px;
+	background: #EFEFEF;
+	padding: 50px;
+	box-shadow: 0px 2px 50px 2px rgba(100, 100, 100, 100);
+}
+
+.ntc{
+	display: inline-block;
+	margin: 95px;
+	padding: 7px;
+	border: 2px solid #000;
+	background: #272727;
+	opacity: 0.9;
+
+	
+}
+
+.ntc:hover{		
+	box-shadow: 4px 2px 80px 9px rgba(000, 000, 000, 700);
+	-webkit-transform: scale(1.1);
+	-ms-transform: scale(1.1);
+	transform: scale(1.1);
+	opacity: 0.9; 
+}
+
+.titp-ntc{
+	color: #fff;
+	margin: auto;
+	display: table;
+	padding-top: 50px;
+	font-size: 2.7em;
+	font-family: Calibri Light;
+}
+
+.tit-ntc{
+	color: #ffffff;
+}
+
+h4{
+	color: #fff;
+}
+
+.ntc a{
+	text-decoration: none;
+}
+
+.img-noticias{
+	width: 300px;
+	height: 200px;
+	border: 1px solid #000;
+	
+}
+
+.tit-mapa{
+	margin: auto;
+	display: table;
+	padding-top: 30px;
+}
+
+.mapa{
+	margin-top: 40px;
+	margin-bottom: 20px;
+	
+}
+
+.etec{
+	color: #818483;
+	font-size: 1em;
+	margin-top: 0px;
+	
+}
+
+.etec a{
+	text-decoration: none;
+	color: #818483;
+}
+
+.etec a:hover{
+	color: #323131;
+	
+}
+
+
+/* Parte 3 */
+
+
+.contato{
+	padding-top: 140px;
+	margin: auto;
+	display: table;
+	font-size: 3em;
+	font-family: Calibri Light;
+	
+}
+
+.endereco{
+	padding-top: 50px;
+	margin: auto;
+	display: table;
+}
+
+/* Formulario */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.form{
+	margin: 20px;
+}
+
+
+
+fieldset {
+    border: 0;
+}
+
+body, input, select, textarea, button {
+    font-family: sans-serif;
+    font-size: 1em;
+}
+
+
+
+
+
+.campo {
+    margin-bottom: 1em;
+}
+
+.campo label {
+    margin-bottom: 0.2em;
+    color: #666;
+    display: block;
+}
+
+
+
+.campo input[type="text"],
+.campo input[type="email"],
+.campo input[type="url"],
+.campo input[type="tel"],
+.campo select,
+.campo textarea {
+    padding: 0.2em;
+    border: 1px solid #CCC;
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+    display: block;
+}
+
+.campo select option {
+    padding-right: 1em;
+}
+
+.campo input:focus, .campo select:focus, .campo textarea:focus {
+    background: #FFC;
+}
+
+.campo label.checkbox {
+    color: #000;
+    display: inline-block;
+    margin-right: 1em;
+}
+
+.botao {
+    font-size: 1.3em;
+    background: #F90;
+    border: 0;
+    margin-bottom: 1em;
+    color: #FFF;
+    padding: 0.1em 0.5em;
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+}
+
+.botao:hover {
+    background: #FB0;
+    box-shadow: inset 2px 2px 2px rgba(0,0,0,0.2);
+    text-shadow: none;
+}
+
+.botao, select, label.checkbox {
+    cursor: pointer;
+}
+
+.alinhando-cont{
+	float: left;
+	margin-left: 380px;
+	margin-top: 50px;
+}
+
+.alinhando-end{
+	float: right;
+	margin-right: 380px;
+	margin-top: 50px;
+}
+
+/* Rodapé */
+
+footer{
+	background-color: #fff;
+	text-align:center;
+	padding: 30px;
+	border-radius: 0 0 30px 30px;
+	border-top: 3px solid pink;
+}
+
+.teste-sec{
+
+}
+
+
+
+
+
