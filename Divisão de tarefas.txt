@@ -1,0 +1,15 @@
+Gustavo Aciem - Ajudou efetivamente na conclusão da Index, dando opiniões e resultados.
+		Trabalhou individualmente na página "TimeLine" e a de "Amigos", recebendo auxílios
+		Auxílio mínimo na página "Cadastro"
+
+
+José Lucas - 	Ajudou e auxiliou na pagina Index junto com os participantes, foi de extrema importancia suas ideias
+		Foi responsável pela página de "perfil", onde obteve ajuda
+		Ajudou na personalização do "Cadastro"
+
+
+Vinicius Ermacora - 	Responsável maior pela "Index" - criou o CSS da "Index"
+			Ajudou no trabalho da pagina "Perfil" e a de "Cadastro"
+			Trabalhou individualmente na página de "Login", recebendo algumas ajudas apenas
+			
+		
